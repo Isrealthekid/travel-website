@@ -501,6 +501,15 @@ footer{
         grid-template-rows:(4, 1fr);
     }
 
+    .tour-card:last-child{
+        grid-column:span 1;
+
+    }
+
+    .tour-card:nth-last-child(3){
+        grid-row: span 2;
+    }
+
     .services-grid{
         grid-template-columns: repeat(2, 1fr);
     }
@@ -513,7 +522,7 @@ footer{
     .travel-grid{
         columns: 2;
     }
-
+ 
     .book-now-img{
         width: 48%;
     }
@@ -529,8 +538,8 @@ footer{
      
 
 }
-
-@media screen and(max-width: 798px) {
+ 
+@media screen and (max-width: 798px) {
     .navbar{
         height: auto;
     }
@@ -544,7 +553,7 @@ footer{
         margin: -50px -30px 0 -30px;
     }
 
-    .link-item a{
+    .link-item a{ 
         padding: 10px;
         margin: auto;
         display: block;
@@ -556,7 +565,7 @@ footer{
 
     .slider-grid{
         grid-template-columns: repeat(2,1fr);
-        grid-template-rows: repeat(2,1fr);
+        grid-template-rows: repeat(3,1fr);
 
     }
 
@@ -571,7 +580,7 @@ footer{
     .tours-container{
         height: auto;
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(1, 1fr);
+        grid-template-rows: repeat(6 , 1fr);
     }
 
     .tour-card{
@@ -585,7 +594,7 @@ footer{
         grid-template-columns: repeat(1, 1fr);
     }
 
-    .service-grid:nth-child(2){
+    .service-card:nth-child(2){
         margin-top: 0;
     }
 
