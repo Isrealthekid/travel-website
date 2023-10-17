@@ -1,10 +1,4 @@
-# Responsive Travel one page website
 
-![Website](https://i9.ytimg.com/vi/j3xI8aHwZnE/maxresdefault.jpg?v=6411e5c5&sqp=CNTLyqAG&rs=AOn4CLBj6ML8ATomLM2bqEeTyqa-_Rae4w)
-
-Download Full Code Here - https://www.patreon.com/posts/responsive-using-80058174
-
-Download this repo to start following the [tutorial](https://www.youtube.com/watch?v=j3xI8aHwZnE&ab_)
 
 This repo has 
 
