@@ -44,14 +44,3 @@ JS
 }
 ```
 
-You can manually add these CDNs too.
-
-[Instagram](https://www.instagram.com/themodernweb/)
-
-[Facebook](https://www.facebook.com/themodernweb)
-
-[Twitter](https://twitter.com/modernweb438)
-
-[Dev.to](https://dev.to/themodernweb)
-
-[YouTube](https://www.youtube.com/c/modernweb?sub_confirmation=1/)
